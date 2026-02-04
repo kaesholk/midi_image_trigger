@@ -1,0 +1,14 @@
+{
+  "image_folder": "images",
+  "window": {
+    "width": 1280,
+    "height": 720,
+    "bg_color": [0, 0, 0]
+  },
+  "scale_mode": "fit",
+  "notes": {
+    "60": "IMG_3006_noisereduction_48db_0p1sens_1bands_residue.png",
+    "62": "IMG_6567_bass.png",
+    "64": "IMG_6696_nr.png"
+  }
+}
